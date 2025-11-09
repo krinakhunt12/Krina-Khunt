@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -31,3 +32,6 @@ Deploy:
 - This project is ready to be deployed to Vercel or Netlify. Point the deployment to the project root. Vite will build the static assets.
 
 Project structure was extended with a clean component-based portfolio layout in `src/components/` (Navbar, Hero, Projects, About, Contact, Footer) and a small `useReveal` hook for scroll reveal animations.
+=======
+# Krina-PortFolio
+>>>>>>> aae2f943d3f92ac36a578703cce07225047d2b03
