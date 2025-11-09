@@ -38,7 +38,7 @@ const sampleProjects = [
       'Implemented interactive menu system with real-time updates',
       'Created responsive design for seamless user experience across all devices'
     ],
-    tech: ['JavaScript', 'HTML', 'CSS', 'REST APIs'],
+    tech: ['React', 'Tailwind', 'REST APIs'],
     image: '/src/assets/project-3.svg',
     isCompanyProject: false,
     github: 'https://github.com/krinakhunt12/GrandDine_Restaurant'
@@ -53,7 +53,7 @@ const sampleProjects = [
       'Created responsive design with modern UI/UX for seamless shopping experience',
       'Integrated user authentication and secure checkout process'
     ],
-    tech: ['React', 'JavaScript', 'HTML', 'CSS', 'REST APIs'],
+    tech: ['React', 'Tailwind', 'Node', 'REST APIs'],
     image: '/src/assets/project-4.svg',
     isCompanyProject: false,
     github: 'https://github.com/krinakhunt12/22010031000044'
@@ -68,7 +68,7 @@ const sampleProjects = [
       'Created user-friendly interface for medical consultations',
       'Integrated machine learning models for accurate medical responses'
     ],
-    tech: ['Python', 'Machine Learning', 'NLP', 'AI', 'Flask'],
+    tech: ['Python', 'Machine Learning', 'NLP', 'AI', 'Streamlit'],
     image: '/src/assets/project-5.svg',
     isCompanyProject: false,
     github: 'https://github.com/krinakhunt12/Medibot_Project'
