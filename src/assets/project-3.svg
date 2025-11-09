@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="100%" height="100%" rx="20" fill="#071033" />
+  <defs>
+    <linearGradient id="shopGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(40,40)">
+    <rect width="720" height="420" rx="16" fill="url(#shopGrad)" opacity="0.12"/>
+
+    <!-- product tiles -->
+    <g transform="translate(80,80)" fill="#fff" opacity="0.95">
+      <rect x="0" y="0" width="160" height="100" rx="8" fill="#fff" opacity="0.08"/>
+      <rect x="180" y="0" width="160" height="100" rx="8" fill="#fff" opacity="0.06"/>
+      <rect x="360" y="0" width="160" height="100" rx="8" fill="#fff" opacity="0.06"/>
+
+      <rect x="0" y="120" width="120" height="12" rx="6" fill="#fff" opacity="0.08"/>
+      <rect x="0" y="144" width="80" height="12" rx="6" fill="#fff" opacity="0.06"/>
+    </g>
+
+    <!-- cart icon -->
+    <g transform="translate(520,180)" fill="#fff" opacity="0.95">
+      <rect x="0" y="0" width="110" height="72" rx="10" fill="#ffffff" opacity="0.06"/>
+      <path d="M14 18 L28 18 L44 54 L92 54" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="60" cy="58" r="6" fill="#fff"/>
+      <circle cx="86" cy="58" r="6" fill="#fff"/>
+    </g>
+
+    <text x="64" y="360" font-family="Inter, Arial, Helvetica, sans-serif" font-size="28" fill="#e6eef8">E‑Commerce Website</text>
+  </g>
+</svg>

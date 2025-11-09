@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6EE7B7"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0f172a"/>
+  <g transform="translate(300,200)">
+    <circle r="90" fill="url(#g)" stroke="#0b1220" stroke-width="6"/>
+    <g transform="translate(-40,10)" fill="#071033">
+      <ellipse rx="70" ry="48" cx="40" cy="70"/>
+      <rect x="-60" y="90" width="220" height="200" rx="26"/>
+    </g>
+  </g>
+  <text x="300" y="520" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#cbd5e1" text-anchor="middle">Krina Khunt</text>
+</svg>
